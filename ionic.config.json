@@ -1,5 +1,7 @@
 {
   "name": "qr-saver",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
